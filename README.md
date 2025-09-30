@@ -1,0 +1,1 @@
+This repository contains my solutions to LeetCode problems in Java. Each solution is written with clean code practices and focuses on improving problem-solving skills, data structures, and algorithms. Problems are organized by topic such as arrays, strings, linked lists, dynamic programming, and graphs, showcasing different approaches from brute force to optimized solutions.
